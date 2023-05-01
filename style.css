@@ -140,7 +140,21 @@ h1 {
 	font-size: 18px;
 }
 
-.last-word {
-	padding-top: 30px;
-	font-size: 12px;
+.our-contact {
+	color: white;
+	padding: 50px;
 }
+
+address {
+	font-style: normal;
+}
+
+.tel>a,
+.email>a,
+.addres {
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+
